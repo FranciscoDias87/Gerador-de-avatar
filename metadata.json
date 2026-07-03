@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Avatares - Jogo Educativo",
+  "description": "Um jogo interativo e educativo onde o estudante constrói um sistema gerador de avatares passo a passo de acordo com o plano de aula.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
